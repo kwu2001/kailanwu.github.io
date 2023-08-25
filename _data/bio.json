@@ -2,14 +2,14 @@
   "basics": {
     "name": "Kailan Wu",
     "label": "Student",
-    "picture": "https://github.com/kailanwu.png",
+    "picture": "https://github.com/kwu2001.png",
     "email": "kailanwu@hawaii.edu",
     "phone": "808-450-5784",
-    "website": "https://kailanwu.github.io",
+    "website": "https://kwu2001.github.io",
     "summary": "I am studying for a B.B.A in Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "kailanwu", "url": "http://github.com/kailanwu" },
+      { "network": "github", "username": "kwu2001", "url": "http://github.com/kwu2001" },
       { "network": "instagram", "username": "wucci_kw", "url": "http://instagram.com/wucci_kw" }
     ]
   },
