@@ -10,7 +10,6 @@ labels:
   - Major
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 I have decided to major in Management Information Systems because in today's world, businesses are beginning to use data and technology effectively. MIS is a great choice because it teaches me different technology and analysis skills. With this major, it allows me to work in various jobs such as helping businesses managing projects, decisions, or keeping data secure.
 
